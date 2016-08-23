@@ -1,0 +1,17 @@
+.container{
+background-color: red;
+}
+.col-lg-12{
+background-color: green;
+text-align: center;
+}
+.col-lg-2{
+background-color: pink;
+}
+.col-lg-10{
+background-color: blue;
+text-align: center;
+}
+#test{
+color: white;
+}
