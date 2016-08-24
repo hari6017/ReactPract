@@ -1,0 +1,18 @@
+.container{
+background-color: yellow;
+text-align: center;
+}
+.col-lg-12{
+background-color: green;
+text-align: center;
+}
+.col-lg-2{
+background-color: white;
+}
+.col-lg-10{
+background-color: white;
+text-align: center;
+}
+#test{
+color: white;
+}
